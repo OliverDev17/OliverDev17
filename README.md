@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70202&width=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=System.out.println(%22Hello,+my+name+is+Gabriel%22);System.out.println(%22I+am+33+years+old%22);System.out.println(%22I+am+from+Brazil%22);I+am+studying+FullStack+Java+development+e+ADS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70202&width=35&center=true&vCenter=true&width=1000&lines=System.out.println(%22Hello,+my+name+is+Gabriel%22);System.out.println(%22I+am+33+years+old%22);System.out.println(%22I+am+from+Brazil%22);I+am+studying+FullStack+Java+development+e+ADS.)](https://git.io/typing-svg)
 
 Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela área de desenvolvimento, gosto de me atualizar e solidificar conceitos nas melhores práticas em desenvolvimento e arquiteturas para entrega de um software de qualidade. Como colaborador membro de time, gosto de trabalhar de forma conjunta e gerando sinergia, acredito em ambientes amigáveis e colaborativos onde a boa comunicação e empatia geram resultados e aumentam o nível da equipe como um todo, tendo estudado conceito do Scrum além de minha experiência contextualizada. Meus hobbies incluem jogar, consumir novas tecnólogias automotivas, e desenvolver projetos e desafios pessoais.
 
