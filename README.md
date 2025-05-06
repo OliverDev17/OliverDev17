@@ -45,7 +45,7 @@ Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela 
 </div>
 
 
-<p align="center">Veja o perfil na plataforma 
+<p align="center">Veja o meu perfil na plataforma 
     <a href="https://judge.beecrowd.com/pt/profile/740679">beecrowd</a> 🐝
     
 </p>
