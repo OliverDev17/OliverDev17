@@ -4,9 +4,13 @@
 
 Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela área de desenvolvimento, gosto de me atualizar e solidificar conceitos nas melhores práticas em desenvolvimento e arquiteturas para entrega de um software de qualidade. Como colaborador membro de time, gosto de trabalhar de forma conjunta e gerando sinergia, acredito em ambientes amigáveis e colaborativos onde a boa comunicação e empatia geram resultados e aumentam o nível da equipe como um todo, tendo estudado conceito do Scrum além de minha experiência contextualizada. Meus hobbies incluem jogar, consumir novas tecnólogias automotivas, e desenvolver projetos e desafios pessoais.
 
-<div align="center">  
 <a href="https://www.linkedin.com/in/gabriel-oliveira1705" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="Oliverbiel17051991@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
+
+<p align="center">Veja o meu perfil na plataforma 
+    <a href="https://judge.beecrowd.com/pt/profile/740679">beecrowd</a> 🐝
 
 
 ### Back-End skills:
@@ -48,6 +52,5 @@ Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela 
 <p align="center">Veja o meu perfil na plataforma 
     <a href="https://judge.beecrowd.com/pt/profile/740679">beecrowd</a> 🐝
     
-</p>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70202&width=120&section=footer"/>
