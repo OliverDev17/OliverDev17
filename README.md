@@ -8,9 +8,9 @@ Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela 
 <a href="https://www.linkedin.com/in/gabriel-oliveira1705" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://vercel.com/oliverbiel1705s-projects" target="_blank"><img src="https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 </div> 
 
-<p align="center">Veja o meu perfil na plataforma 
+<p align="center">Veja o meu perfil nas plataformas 
     <a href="https://judge.beecrowd.com/pt/profile/740679">beecrowd</a> 🐝
-
+    <a href="https://www.hackerrank.com/profile/oliverbiel170511">hackerrank</a> 👨‍💻
 
 ### Back-End skills:
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
