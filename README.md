@@ -2,7 +2,10 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70202&width=35&center=true&vCenter=true&width=1000&lines=System.out.println(%22Hello,+my+name+is+Gabriel%22);System.out.println(%22I+am+35+years+old%22);System.out.println(%22I+am+from+Brazil%22);I+am+Full+Stack+in+Java+and+graduated+from+ADS+student+of+Architecture+and+Dev+Java.)](https://git.io/typing-svg)
 
-Desenvolvedor de Software inserido na área de Full Stack Java, Apaixonado pela área de desenvolvimento, gosto de me atualizar e solidificar conceitos nas melhores práticas em desenvolvimento e arquiteturas para entrega de um software de qualidade. Como colaborador membro de time, gosto de trabalhar de forma conjunta e gerando sinergia, acredito em ambientes amigáveis e colaborativos onde a boa comunicação e empatia geram resultados e aumentam o nível da equipe como um todo, tendo estudado conceito do Scrum além de minha experiência contextualizada. Meus hobbies incluem jogar, consumir novas tecnólogias automotivas, e desenvolver projetos e desafios pessoais.
+Sou Engenheiro de Software e Arquiteto de Soluções com experiência em microsserviços, APIs REST e sistemas distribuídos, desenvolvendo aplicações escaláveis em Java, Spring Boot e React.
+Liderei projetos que reduziram custos operacionais e aumentaram a performance de sistemas críticos, implementando pipelines CI/CD e arquiteturas resilientes. Tenho facilidade em traduzir problemas complexos em soluções práticas, sempre com foco em qualidade, segurança e experiência do usuário.
+Atuo em ambientes ágeis (Scrum, Kanban) e possuo sólida vivência em transformação organizacional, combinando conhecimento técnico com visão estratégica para entregar resultados mensuráveis.
+
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/gabriel-oliveira1705" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://vercel.com/oliverbiel1705s-projects" target="_blank"><img src="https://img.shields.io/badge/Vercel-00000F?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
