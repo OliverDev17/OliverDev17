@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70202&width=35&center=true&vCenter=true&width=1000&lines=System.out.println(%22Hello,+my+name+is+Gabriel%22);System.out.println(%22I+am+35+years+old%22);System.out.println(%22I+am+from+Brazil%22);I+am+Full+Stack+in+Java+and+graduated+from+ADS+student+of+Architecture+and+Dev+Java.)](https://git.io/typing-svg)
 
-Sou Engenheiro de Software e Arquiteto de Soluções com experiência em microsserviços, APIs REST e sistemas distribuídos, desenvolvendo aplicações escaláveis em Java, Spring Boot e React.
+Engenheiro de Software e Arquiteto de Soluções com experiência em microsserviços, APIs REST e sistemas distribuídos, desenvolvendo aplicações escaláveis em Java, Spring Boot e React.
 Liderei projetos que reduziram custos operacionais e aumentaram a performance de sistemas críticos, implementando pipelines CI/CD e arquiteturas resilientes. Tenho facilidade em traduzir problemas complexos em soluções práticas, sempre com foco em qualidade, segurança e experiência do usuário.
 Atuo em ambientes ágeis (Scrum, Kanban) e possuo sólida vivência em transformação organizacional, combinando conhecimento técnico com visão estratégica para entregar resultados mensuráveis.
 
